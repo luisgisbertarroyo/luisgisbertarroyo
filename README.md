@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luis Gisbert
 
-<!--
-**luisgisbertarroyo/luisgisbertarroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy **Support & QA Manager en Cires21**, apasionado por la calidad del software y la optimización de flujos de trabajo. Me especializo en la gestión de soporte técnico y pruebas de software, asegurando la estabilidad y rendimiento de las soluciones tecnológicas. Mi enfoque está en garantizar que cada producto entregue la mejor experiencia posible a los usuarios.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas
+- 💻 **Lenguajes:** Python, Java, C, C++, HTML, CSS
+- 🏗️ **Testing & QA:** Automatización de pruebas, validación de software, gestión de calidad
+- 🔍 **Resolución de incidencias:** Diagnóstico de errores, mejora continua y documentación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌎 Cómo contactarme
+- 🌐 **Web:** [luisgisbertarroyo.es](https://luisgisbertarroyo.es)
+- 📧 **Email:** [luis@luisgisbertarroyo.es](mailto:luis@luisgisbertarroyo.es)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/luis-gisbert-arroyo/
+
+## 🎯 Filosofía de trabajo
+*"La calidad no es un acto, es un hábito."* - Aristóteles
